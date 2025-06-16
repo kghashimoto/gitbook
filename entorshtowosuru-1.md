@@ -9,6 +9,7 @@ icon: up-to-line
 #### QRコード/ID入力で提出
 
 {% hint style="info" %}
+スマホ搭載のカメラアプリではなく、適職フェアアプリからの読み込みが推奨です。
 
 {% endhint %}
 
