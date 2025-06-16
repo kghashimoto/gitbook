@@ -13,6 +13,6 @@
 * [エントリーシートを提出する](entry_sheet/entorshtowosuru-1-1.md)
 * [よくある質問](entry_sheet/yokuaru.md)
 
-## Group 1
+## チャット <a href="#chat" id="chat"></a>
 
-* [Page 1](group-1/page-1.md)
+* [チャット機能について](chat/chattonitsuite.md)
