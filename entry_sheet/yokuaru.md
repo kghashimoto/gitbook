@@ -1,3 +1,7 @@
+---
+icon: circle-question
+---
+
 # よくある質問
 
 <details>

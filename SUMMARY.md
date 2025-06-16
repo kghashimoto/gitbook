@@ -9,9 +9,10 @@
 
 * [エントリーシートの入力](entry_sheet/entorshtono.md)
 * [エントリーシートを編集する](entry_sheet/entorshtowosuru.md)
+* [エントリーシートを確認する](entry_sheet/entorshtowosuru-1.md)
+* [エントリーシートを提出する](entry_sheet/entorshtowosuru-1-1.md)
+* [よくある質問](entry_sheet/yokuaru.md)
 
-***
+## Group 1
 
-* [エントリーシートを確認する](entorshtowosuru.md)
-* [エントリーシートを提出する](entorshtowosuru-1.md)
-* [よくある質問](yokuaru.md)
+* [Page 1](group-1/page-1.md)
