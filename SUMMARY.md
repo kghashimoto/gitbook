@@ -1,9 +1,9 @@
 # Table of contents
 
-## 会員登録 <a href="#user" id="user"></a>
+## 準備 <a href="#01-user" id="01-user"></a>
 
 * [会員登録](README.md)
-* [プロフィールを登録する](user/profile.md)
+* [プロフィールを登録する](01-user/02-profile.md)
 
 ## エントリーシートについて <a href="#entry_sheet" id="entry_sheet"></a>
 
@@ -13,6 +13,6 @@
 * [エントリーシートを提出する](entry_sheet/04-submit.md)
 * [よくある質問](entry_sheet/05-faq.md)
 
-## チャット <a href="#chat" id="chat"></a>
+## チャット <a href="#03-chat" id="03-chat"></a>
 
-* [チャット機能について](chat/chattonitsuite.md)
+* [チャット機能について](03-chat/01-about.md)
