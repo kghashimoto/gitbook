@@ -19,4 +19,4 @@
 
 ## イベントについて <a href="#04-event" id="04-event"></a>
 
-*　[イベント当日の流れ](04-event/01-aboud.md)
+* [イベント当日の流れ](04-event/01-aboud.md)
