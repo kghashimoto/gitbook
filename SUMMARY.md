@@ -16,3 +16,7 @@
 ## チャット <a href="#03-chat" id="03-chat"></a>
 
 * [チャット機能について](03-chat/01-about.md)
+
+## イベントについて <a href="#04-event" id="04-event"></a>
+
+*　[イベント当日の流れ](04-event/01-aboud.md)
